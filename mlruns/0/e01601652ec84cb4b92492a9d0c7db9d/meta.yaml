@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/work/Kidney_disease_Classifier/mlruns/0/e01601652ec84cb4b92492a9d0c7db9d/artifacts
+end_time: 1717230885199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e01601652ec84cb4b92492a9d0c7db9d
+run_name: nebulous-sheep-812
+run_uuid: e01601652ec84cb4b92492a9d0c7db9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717230867147
+status: 3
+tags: []
+user_id: ritesh

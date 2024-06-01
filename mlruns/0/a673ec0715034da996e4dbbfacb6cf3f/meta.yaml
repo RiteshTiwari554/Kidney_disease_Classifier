@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/work/Kidney_disease_Classifier/mlruns/0/a673ec0715034da996e4dbbfacb6cf3f/artifacts
+end_time: 1717227210590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a673ec0715034da996e4dbbfacb6cf3f
+run_name: nebulous-shark-342
+run_uuid: a673ec0715034da996e4dbbfacb6cf3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717227191098
+status: 3
+tags: []
+user_id: ritesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/work/Kidney_disease_Classifier/mlruns/0/a495ff65f4da4e39a692e20f4af22988/artifacts
+end_time: 1717227557340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a495ff65f4da4e39a692e20f4af22988
+run_name: likeable-cub-822
+run_uuid: a495ff65f4da4e39a692e20f4af22988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717227541915
+status: 3
+tags: []
+user_id: ritesh
