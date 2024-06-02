@@ -62,7 +62,29 @@ open up you local host and port
 ##### cmd
 - mlflow ui
 
+### DVC Cmd
 
+```bash
+dvc init
+dvc repro
+dvc dag
+```
+
+## About MLflow & DVC
+
+#### MLflow
+
+1. Its Production Grade
+2. Trace all of your expriements
+3. Logging & taging your model
+
+#### DVC
+
+1. Its very lite weight for POC only
+2. lite weight expriements tracker
+3. It can perform Orchestration (Creating Pipelines)
+
+   
 
 <!-- import dagshub
 dagshub.init(repo_owner='RiteshTiwari554', repo_name='Kidney_disease_Classifier', mlflow=True)
