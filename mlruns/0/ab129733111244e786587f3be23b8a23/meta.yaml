@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/work/Kidney_disease_Classifier/mlruns/0/ab129733111244e786587f3be23b8a23/artifacts
+end_time: 1717303109518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab129733111244e786587f3be23b8a23
+run_name: fortunate-mare-466
+run_uuid: ab129733111244e786587f3be23b8a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717303093094
+status: 3
+tags: []
+user_id: ritesh

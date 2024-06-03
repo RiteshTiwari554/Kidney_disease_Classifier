@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/work/Kidney_disease_Classifier/mlruns/0/bef3f56b3c6040ef960208238df6a62e/artifacts
+end_time: 1717319785576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bef3f56b3c6040ef960208238df6a62e
+run_name: carefree-bug-655
+run_uuid: bef3f56b3c6040ef960208238df6a62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717319770198
+status: 3
+tags: []
+user_id: ritesh
